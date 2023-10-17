@@ -65,7 +65,7 @@ jobs:
         with:
           upload_url: ${{ steps.create-new-release.outputs.upload_url }}
           asset_path: ./书籍/release.zip
-          asset_name: xueyushe-book-releases
+          asset_name: xueyushe-book-releases.zip
           asset_content_type: application/zip
 
     # # Steps represent a sequence of tasks that will be executed as part of the job
