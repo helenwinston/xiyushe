@@ -23,12 +23,18 @@
 !["细雨资料学习建议2"](./assets/imgs/细雨资料学习建议2.png "细雨资料学习建议2")
 
 !["细雨资料学习建议3"](./assets/imgs/细雨资料学习建议3.png "细雨资料学习建议3")
-
-
+ 
 ## 联系
 ### Helen QQ: 1138055932  
 ### 细雨社志愿者Q群：623940583
 ### email地址：mkxy2021@hotmail.com
 
 ### Youtube频道: https://www.youtube.com/@xiyushe
+ 
+
+## 备用地址
+### github    https://github.com/helenwinston/xiyushe
+### gitee     https://gitee.com/helenwinston/xiyushe 
+### gitcode   https://gitcode.net/Xiyushe/xiyushe
+ 
  
