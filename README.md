@@ -27,7 +27,7 @@
 ## 联系
 ### Helen QQ: 1138055932  
 ### 细雨社志愿者Q群：623940583
-### email地址：mkxy2021@hotmail.com
+### email地址：xiyushe@outlook.com
 
 ### Youtube频道: https://www.youtube.com/@xiyushe
  
@@ -35,6 +35,7 @@
 ## 备用地址
 ### github    https://github.com/helenwinston/xiyushe
 ### gitee     https://gitee.com/helenwinston/xiyushe 
-### gitcode   https://gitcode.net/Xiyushe/xiyushe
+### gitcsdn   https://gitcode.net/Xiyushe/xiyushe
+### gitcode   https://gitcode.com/xiyushe/xiyushe 
  
  
