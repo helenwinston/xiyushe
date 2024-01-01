@@ -30,6 +30,8 @@
 ### email地址：xiyushe@outlook.com
 
 ### Youtube频道: https://www.youtube.com/@xiyushe
+
+### 细雨社在线书籍 www.xiyushe.org
  
 
 ## 备用地址
