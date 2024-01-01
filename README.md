@@ -31,7 +31,9 @@
 
 ### Youtube频道: https://www.youtube.com/@xiyushe
 
-### 细雨社在线书籍 www.xiyushe.org
+### 细雨社在线书籍 https://www.xiyushe.org 
+#### 该仓库书籍维护于在线书籍网站之中,该网站电子书籍暂不维护!!!
+
  
 
 ## 备用地址
